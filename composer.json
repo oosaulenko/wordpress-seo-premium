@@ -1,0 +1,8 @@
+{
+    "name": "wordpress-plugin/wordpress-seo-premium",
+    "description": "wordpress-seo-premium",
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">=7.4"
+    }
+}
